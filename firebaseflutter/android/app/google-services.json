@@ -1,13 +1,32 @@
 {
   "project_info": {
-    "project_number": "510039708817",
-    "project_id": "basicapp-68fd3",
-    "storage_bucket": "basicapp-68fd3.appspot.com"
+    "project_number": "1068253582770",
+    "project_id": "taxigo-daea3",
+    "storage_bucket": "taxigo-daea3.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:510039708817:android:1b91fa1c9b0a49a246db30",
+        "mobilesdk_app_id": "1:1068253582770:android:d72916ae84d0bb51e4c0ab",
+        "android_client_info": {
+          "package_name": "com.dotcoder.green_taxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmTIeWbQVJoGhYOlb8SIOkaTgVrFJJSSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068253582770:android:38ab53e440c0163ee4c0ab",
         "android_client_info": {
           "package_name": "com.example.firebaseflutter"
         }
@@ -15,7 +34,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyANv1UKg7ElQ9wI4ZPAmPK6hw0VaVOnjBs"
+          "current_key": "AIzaSyCmTIeWbQVJoGhYOlb8SIOkaTgVrFJJSSY"
         }
       ],
       "services": {
